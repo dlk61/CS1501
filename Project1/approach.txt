@@ -1,0 +1,2 @@
+I kept track of a user's previously entered words by creating a history object and calling an instance method in the DLBTrie class, just like I did for the dictionary. 
+I chose the DLB Trie because it saves space and you are not wasting memory. The history trie is most likely going to be sparse so the DLB would be universally better to use than an R way trie. In addition, by storing one character per node, the DLB would be great in order to find predictions, just like the dictionary DLB trie was. 
