@@ -1,0 +1,18 @@
+		  all.tar   assig2.doc    bmps.tar   code.txt  code2.txt    edit.exe   frosty.jpg    gone_fishin.bmp   large.txt     Lego-big.gif    medium.txt    texts.tar     wacky.bmp     winnt256.bmp
+original	   3000 KB    87 KB        1100 KB    72 KB      58 KB        236 KB    127 KB          17 KB           1200 KB        93 KB          25 KB        1400 KB 	 922 KB          157 KB                        
+unmodified	   1800 KB    75 KB        925 KB     31 KB      24 KB        251 KB    177 KB          9 KB            605 KB         129 KB         13 KB        1000 KB       4 KB            159 KB 
+do nothing	   1800 KB    40 KB        81 KB      25 KB      21 KB        156 KB    164 KB	        9 KB            502 KB         122 KB         13 KB        598 KB        4 KB             63 KB
+reset	           1200 KB    40 KB        81 KB      25 KB      21 KB        152 KB    171 KB          9 KB            527 KB         122 KB         13 KB        590 KB        4 KB             63 KB	
+monitor		   2100 KB    40 KB        81 KB      25 KB      21 KB        156 KB    164 KB          9 KB            502 KB         122 KB         13 KB        598 KB        4 KB             63 KB
+WinZip for Mac	   906 KB     21.5 KB      55.1 KB    13.9 KB    12.4 KB      117 KB    124 KB          8 KB            459 KB         90.2 KB        10.1 KB      496 KB        2.9 KB           43.9 KB	
+															
+																								
+															
+Compression Ratios (Original File Size / Compressed File Size)	
+														
+		all.tar	   assig2.doc	 bmps.tar.   code.txt	code2.txt   edit.exe	frosty.jpg   gone_fishin.bmp	large.txt   Lego-big.gif    medium.txt	   texts.tar	 wacky.bmp	winnt256.bmp
+unmodified	 1.67	     1.16	   1.19	       2.32	  2.42	      0.94	   0.72	          1.89	           1.98	         0.72	       1.92	      1.4	   230.5	    0.99
+do nothing	 1.67	     2.18	   13.58       2.88	  2.76	      1.51	   0.77	          1.89	           2.39	         0.76	       1.92	      2.34	   230.5	    2.49
+reset		 2.5	     2.18	   13.58       2.88	  2.76	      1.55	   0.74	          1.89	           2.28	         0.76	       1.92	      2.37	   230.5	    2.49
+monitor		 1.43	     2.18	   13.58       2.88	  2.76	      1.51	   0.77	          1.89	           2.39	         0.76	       1.92	      2.34	   230.5	    2.49
+WinZip for Mac	 3.31	     4.05	   19.96       5.18	  4.67	      2.02	   1.02	          2.13	           2.61	         1.03	       2.48	      2.82	   317.93	    3.58
